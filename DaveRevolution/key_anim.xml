@@ -1,0 +1,6 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="key.png" transparentColor="">
+ <animation title="key" delay="150">
+  <cut w="39.5" x="0.5" y="0.25" h="46.75" row="1" col="1"/>
+ </animation>
+</sprites>

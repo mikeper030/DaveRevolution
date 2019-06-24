@@ -1,0 +1,6 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="PlatformGameTiles.png" transparentColor="">
+ <animation title="FakeTile" delay="150">
+  <cut w="38" x="986" y="2124" h="78" row="1" col="1"/>
+ </animation>
+</sprites>

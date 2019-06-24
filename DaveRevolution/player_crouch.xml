@@ -1,0 +1,6 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="policeman.png" transparentColor="">
+ <animation title="crouch" delay="150">
+  <cut w="54.25" x="426.75" y="0.75" h="89.25" row="1" col="1"/>
+ </animation>
+</sprites>

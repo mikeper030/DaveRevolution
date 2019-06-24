@@ -1,0 +1,27 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="coins_sheet.png" transparentColor="">
+ <animation title="money_anim" delay="80">
+  <cut w="163" x="50" y="153" h="171" row="1" col="1"/>
+  <cut w="161" x="213" y="153" h="171" row="1" col="1"/>
+  <cut w="154" x="376" y="152" h="173" row="1" col="1"/>
+  <cut w="144" x="530" y="152" h="174" row="1" col="1"/>
+  <cut w="105" x="676" y="151" h="173" row="1" col="1"/>
+  <cut w="63" x="781" y="151" h="173" row="1" col="1"/>
+  <cut w="102" x="845" y="150" h="170" row="1" col="1"/>
+  <cut w="127" x="952" y="150" h="170" row="1" col="1"/>
+  <cut w="140" x="1082" y="149" h="171" row="1" col="1"/>
+  <cut w="160" x="1229" y="150" h="171" row="1" col="1"/>
+ </animation>
+ <animation title="life_anim" delay="80">
+  <cut w="151" x="56" y="389" h="165" row="1" col="1"/>
+  <cut w="158" x="215" y="390" h="165" row="1" col="1"/>
+  <cut w="149" x="379" y="391" h="164" row="1" col="1"/>
+  <cut w="139" x="533" y="391" h="163" row="1" col="1"/>
+  <cut w="105" x="676" y="393" h="161" row="1" col="1"/>
+  <cut w="58" x="785" y="392" h="162" row="1" col="1"/>
+  <cut w="100" x="849" y="389" h="165" row="1" col="1"/>
+  <cut w="122" x="953" y="397" h="157" row="1" col="1"/>
+  <cut w="142" x="1081" y="399" h="156" row="1" col="1"/>
+  <cut w="161" x="1227" y="398" h="158" row="1" col="1"/>
+ </animation>
+</sprites>

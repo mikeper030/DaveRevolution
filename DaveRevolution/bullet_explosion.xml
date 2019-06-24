@@ -1,0 +1,8 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="projectile.png" transparentColor="">
+ <animation title="explosion" delay="150">
+  <cut w="54.6875" x="158.3125" y="20.875" h="28.125" row="1" col="1"/>
+  <cut w="64" x="94.3125" y="19.125" h="29.875" row="1" col="1"/>
+  <cut w="62.875" x="31.4375" y="21.875" h="27.125" row="1" col="1"/>
+ </animation>
+</sprites>

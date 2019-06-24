@@ -1,0 +1,9 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="ammo_life.png" transparentColor="">
+ <animation title="ammo" delay="150">
+  <cut w="220" x="15" y="100" h="179" row="1" col="1"/>
+ </animation>
+ <animation title="life" delay="150">
+  <cut w="223" x="281" y="100" h="179" row="1" col="1"/>
+ </animation>
+</sprites>

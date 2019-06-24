@@ -1,0 +1,16 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="crow-sprite-sheet-1.png" transparentColor="">
+ <animation title="crow" delay="150">
+  <cut w="150.5" x="7.5" y="28.5" h="61.5" row="1" col="1"/>
+  <cut w="142.5" x="197.5" y="29.5" h="63.5" row="1" col="1"/>
+  <cut w="141.5" x="384.5" y="28.5" h="107.5" row="1" col="1"/>
+  <cut w="165.5" x="547.5" y="28.5" h="131.5" row="1" col="1"/>
+  <cut w="153.5" x="741.5" y="29.5" h="151.5" row="1" col="1"/>
+  <cut w="140.5" x="935.5" y="30.5" h="119.5" row="1" col="1"/>
+  <cut w="150.5" x="9.5" y="190.5" h="159.5" row="1" col="1"/>
+  <cut w="147.5" x="194.5" y="190.5" h="157.5" row="1" col="1"/>
+  <cut w="163.5" x="362.5" y="193.5" h="156.5" row="1" col="1"/>
+  <cut w="170.5" x="542.5" y="196.5" h="147.5" row="1" col="1"/>
+  <cut w="157" x="741" y="241" h="112" row="1" col="1"/>
+ </animation>
+</sprites>

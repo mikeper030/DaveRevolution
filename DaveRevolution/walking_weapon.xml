@@ -1,0 +1,21 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="player_large.png" transparentColor="">
+ <animation title="animantion1" delay="200">
+  <cut w="58" x="10" y="412" h="66" row="1" col="1"/>
+  <cut w="46.5" x="20.5" y="505" h="71" row="1" col="1"/>
+  <cut w="58" x="91" y="505" h="69" row="1" col="1"/>
+  <cut w="53" x="174" y="507" h="68" row="1" col="1"/>
+  <cut w="49" x="255" y="505" h="71" row="1" col="1"/>
+  <cut w="47.5" x="334.5" y="505" h="70" row="1" col="1"/>
+  <cut w="52" x="410" y="503.5" h="72.5" row="1" col="1"/>
+ </animation>
+ <animation title="animation2" delay="150">
+  <cut w="42" x="23" y="226" h="70" row="1" col="1"/>
+  <cut w="45.5" x="95.5" y="226" h="75" row="1" col="1"/>
+  <cut w="37.5" x="179.5" y="226" h="75" row="1" col="1"/>
+  <cut w="50" x="251" y="228.5" h="70.5" row="1" col="1"/>
+  <cut w="49" x="333" y="228" h="71" row="1" col="1"/>
+  <cut w="55.5" x="406.5" y="228.5" h="71.5" row="1" col="1"/>
+  <cut w="51" x="490" y="225.5" h="76.5" row="1" col="1"/>
+ </animation>
+</sprites>

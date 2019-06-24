@@ -1,0 +1,15 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="coins_sheet.png" transparentColor="">
+ <animation title="money" delay="150">
+  <cut w="152" x="54" y="142" h="174" row="1" col="1"/>
+  <cut w="156" x="217" y="142" h="174" row="1" col="1"/>
+  <cut w="142" x="381" y="142" h="172" row="1" col="1"/>
+  <cut w="119" x="541" y="142" h="171" row="1" col="1"/>
+  <cut w="84" x="686" y="142" h="175" row="1" col="1"/>
+  <cut w="69" x="778" y="143" h="177" row="1" col="1"/>
+  <cut w="75" x="862" y="142" h="175" row="1" col="1"/>
+  <cut w="129" x="948" y="142" h="176" row="1" col="1"/>
+  <cut w="135" x="1088" y="143" h="178" row="1" col="1"/>
+  <cut w="161" x="1229" y="142" h="177" row="1" col="1"/>
+ </animation>
+</sprites>

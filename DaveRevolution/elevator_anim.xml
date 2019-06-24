@@ -1,0 +1,6 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="canvas-Recovered.png" transparentColor="">
+ <animation title="elevator" delay="150">
+  <cut w="167.75" x="3200.25" y="983" h="73" row="1" col="1"/>
+ </animation>
+</sprites>

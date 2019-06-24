@@ -1,0 +1,12 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="player.png" transparentColor="">
+ <animation title="walk right" delay="70">
+  <cut w="38.75" x="21.25" y="323" h="68" row="1" col="1"/>
+  <cut w="44.75" x="98.25" y="323" h="67" row="1" col="1"/>
+  <cut w="55.75" x="168.25" y="323" h="67" row="1" col="1"/>
+  <cut w="44.75" x="256.25" y="323" h="68" row="1" col="1"/>
+  <cut w="37.75" x="339.25" y="321.5" h="69.5" row="1" col="1"/>
+  <cut w="40.75" x="418.25" y="322.5" h="67.5" row="1" col="1"/>
+  <cut w="41.25" x="495.75" y="323" h="67" row="1" col="1"/>
+ </animation>
+</sprites>

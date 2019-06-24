@@ -1,0 +1,33 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="MegaManSheet.png" transparentColor="">
+ <animation title="walk" delay="150">
+  <cut w="29" x="320" y="19" h="34" row="1" col="1"/>
+  <cut w="18" x="351" y="18.5" h="33.5" row="1" col="1"/>
+  <cut w="23" x="370" y="17" h="35" row="1" col="1"/>
+  <cut w="31" x="395" y="19" h="32" row="1" col="1"/>
+  <cut w="33" x="157" y="77" h="33" row="1" col="1"/>
+  <cut w="27" x="459" y="17" h="36" row="1" col="1"/>
+  <cut w="20" x="490" y="18" h="35" row="1" col="1"/>
+  <cut w="23" x="514" y="16.5" h="37.5" row="1" col="1"/>
+  <cut w="33" x="537" y="16.5" h="36.5" row="1" col="1"/>
+  <cut w="33" x="570" y="16.5" h="36.5" row="1" col="1"/>
+  <cut w="30" x="604" y="16.5" h="36.5" row="1" col="1"/>
+ </animation>
+ <animation title="jump" delay="150">
+  <cut w="24.5" x="4.5" y="72" h="37" row="1" col="1"/>
+  <cut w="16.5" x="33.5" y="67" h="43" row="1" col="1"/>
+  <cut w="22" x="54" y="63" h="46" row="1" col="1"/>
+  <cut w="25" x="76" y="63" h="46" row="1" col="1"/>
+  <cut w="28" x="101" y="63" h="46" row="1" col="1"/>
+ </animation>
+ <animation title="standing" delay="150">
+  <cut w="31.5" x="212.5" y="17.5" h="34.5" row="1" col="1"/>
+ </animation>
+ <animation title="climb" delay="250">
+    <cut w="24.5" x="4.5" y="72" h="37" row="1" col="1"/>
+    <cut w="16.5" x="33.5" y="67" h="43" row="1" col="1"/>
+    <cut w="22" x="54" y="63" h="46" row="1" col="1"/>
+    <cut w="25" x="76" y="63" h="46" row="1" col="1"/>
+    <cut w="28" x="101" y="63" h="46" row="1" col="1"/>
+  </animation>
+</sprites>

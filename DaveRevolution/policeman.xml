@@ -1,0 +1,50 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="policeman.png" transparentColor="">
+ <animation title="idle" delay="150">
+  <cut w="51" x="1" y="240" h="116" row="1" col="1"/>
+ </animation>
+ <animation title="walk" delay="150">
+  <cut w="59" x="1" y="0" h="112" row="1" col="1"/>
+  <cut w="60" x="60" y="0" h="112" row="1" col="1"/>
+  <cut w="56" x="120" y="0" h="112" row="1" col="1"/>
+  <cut w="50" x="184" y="0" h="112" row="1" col="1"/>
+  <cut w="56" x="240" y="0" h="112" row="1" col="1"/>
+  <cut w="48" x="300" y="0" h="112" row="1" col="1"/>
+  <cut w="50" x="360" y="0" h="112" row="1" col="1"/>
+  <cut w="56" x="420" y="0" h="110" row="1" col="1"/>
+ </animation>
+ <animation title="shoot" delay="150">
+  <cut w="52" x="0" y="120" h="115" row="1" col="1"/>
+  <cut w="52" x="60" y="120" h="115" row="1" col="1"/>
+  <cut w="60" x="120" y="120" h="115" row="1" col="1"/>
+  <cut w="59" x="180" y="120" h="115" row="1" col="1"/>
+  <cut w="62" x="240" y="120" h="115" row="1" col="1"/>
+  <cut w="62" x="308" y="120" h="115" row="1" col="1"/>
+  <cut w="48" x="375" y="120" h="115" row="1" col="1"/>
+  <cut w="48" x="431" y="120" h="115" row="1" col="1"/>
+ </animation>
+ <animation title="dead" delay="150">
+  <cut w="51" x="1" y="240" h="116" row="1" col="1"/>
+  <cut w="54" x="60" y="240" h="116" row="1" col="1"/>
+  <cut w="64" x="120" y="240" h="116" row="1" col="1"/>
+  <cut w="70" x="184" y="240" h="113" row="1" col="1"/>
+  <cut w="59" x="259" y="240" h="113" row="1" col="1"/>
+  <cut w="53" x="324" y="240" h="113" row="1" col="1"/>
+  <cut w="68" x="382" y="240" h="113" row="1" col="1"/>
+  <cut w="89" x="458" y="257" h="93" row="1" col="1"/>
+  <cut w="118" x="555" y="304" h="49" row="1" col="1"/>
+ </animation>
+ <animation title="jump" delay="150">
+  <cut w="43" x="445" y="385" h="107" row="1" col="1"/>
+  <cut w="62" x="250" y="386" h="104" row="1" col="1"/>
+  <cut w="45" x="388" y="386" h="105" row="1" col="1"/>
+  <cut w="50" x="1" y="387" h="109" row="1" col="1"/>
+  <cut w="62" x="117" y="387" h="107" row="1" col="1"/>
+  <cut w="55" x="318" y="387" h="103" row="1" col="1"/>
+  <cut w="54" x="60" y="388" h="107" row="1" col="1"/>
+  <cut w="63" x="180" y="388" h="107" row="1" col="1"/>
+ </animation>
+ <animation title="crouch" delay="150">
+  <cut w="54.25" x="426.75" y="0.75" h="89.25" row="1" col="1"/>
+ </animation>
+</sprites>

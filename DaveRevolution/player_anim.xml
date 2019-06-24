@@ -1,0 +1,24 @@
+<!DOCTYPE SpriteDecomposer>
+<sprites image="player_large.png" transparentColor="">
+ <animation title="walk_right" delay="70">
+  <cut w="37.25" x="18.75" y="321.25" h="69.75" row="1" col="1"/>
+  <cut w="44.25" x="96.75" y="322.75" h="68.25" row="1" col="1"/>
+  <cut w="54.25" x="171.75" y="322.75" h="66.25" row="1" col="1"/>
+  <cut w="44.75" x="255.25" y="323.25" h="67.75" row="1" col="1"/>
+  <cut w="39.75" x="338.25" y="322.75" h="68.25" row="1" col="1"/>
+  <cut w="41.75" x="417.25" y="321.75" h="68.25" row="1" col="1"/>
+  <cut w="43.25" x="493.75" y="323.75" h="65.25" row="1" col="1"/>
+ </animation>
+ <animation title="walk_left" delay="70">
+  <cut w="37.25" x="496.75" y="228.75" h="69.25" row="1" col="1"/>
+  <cut w="44.25" x="411.75" y="226.75" h="70.25" row="1" col="1"/>
+  <cut w="56.75" x="329.25" y="224.25" h="72.75" row="1" col="1"/>
+  <cut w="45.25" x="255.75" y="227.25" h="69.75" row="1" col="1"/>
+  <cut w="34.75" x="182.25" y="227.75" h="70.25" row="1" col="1"/>
+  <cut w="39.25" x="98.75" y="225.25" h="71.75" row="1" col="1"/>
+  <cut w="39.75" x="23.25" y="225.75" h="71.25" row="1" col="1"/>
+ </animation>
+ <animation title="standing" delay="150">
+  <cut w="35.75" x="20.25" y="323" h="70" row="1" col="1"/>
+ </animation>
+</sprites>
