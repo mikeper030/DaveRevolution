@@ -14,9 +14,3 @@ SFML installation instructions on visual studio:
 https://www.sfml-dev.org/tutorials/2.5/start-vc.php
 
 ![](https://od.lk/s/ODFfNDI2NjM2OTVf/SharedScreenshot.jpg)
-
-![](https://od.lk/s/ODFfNDI2NjM2ODhf/Dangerous%20Dave%206_24_2019%202_49_06%20PM.png)
-
-![](https://od.lk/s/ODFfNDI2NjM2ODhf/Dangerous%20Dave%206_24_2019%202_49_06%20PM.png)
-
-![](https://od.lk/s/ODFfNDI2NjM2OTFf/Dangerous%20Dave%206_24_2019%202_47_38%20PM.png)
