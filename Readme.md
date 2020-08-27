@@ -11,7 +11,7 @@ A recreation of the famous vintage Dave game with various mods using c++ and SFM
 SFML installation instructions on visual studio:
 https://www.sfml-dev.org/tutorials/2.5/start-vc.php
 
--Demonstartion video:
+### Demonstartion video:
 
 
 [![Dave revolution](http://img.youtube.com/vi/lYQWQmMQdIk/0.jpg)](https://www.youtube.com/watch?v=lYQWQmMQdIk)
