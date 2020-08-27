@@ -6,7 +6,7 @@ A recreation of the famous vintage Dave game with various mods using c++ and SFM
 - Collect the level key to finish each level 
 - background music
 - full  game experience link:!
-https://youtu.be/lYQWQmMQdIk
+[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
 
 [![Generic badge](https://img.shields.io/badge/C++11-SFML-<COLOR>.svg)](https://shields.io/)
 
